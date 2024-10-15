@@ -1,6 +1,6 @@
 # Generador de Tabla de Verdad  
-![HTML](https://img.shields.io/badge/HTML-orange)  
-![CSS](https://img.shields.io/badge/CSS-blue)  
+![HTML](https://img.shields.io/badge/HTML-orange)
+![CSS](https://img.shields.io/badge/CSS-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 
 ![Generador de Tabla de Verdad](images/generador-de-tabla-de-verdad.png)
