@@ -27,4 +27,4 @@ https://gutbla.github.io/Generador_de_Tabla_de_Verdad/
 1. Ingresa una fórmula lógica en el campo de texto utilizando los conectores proposicionales o la sintaxis LaTeX.
 2. La tabla de verdad se generará automáticamente, resaltando los valores de `True` y `False`.
 3. Utiliza los botones disponibles para limpiar la fórmula, copiar la expresión o pegar la tabla generada.
-4. Ver los resultados delas tablas `True` y `False` con colores verde y rojo
+4. Resaltar los resultados de la tabla generada `True` en Verde y `False` en rojo
